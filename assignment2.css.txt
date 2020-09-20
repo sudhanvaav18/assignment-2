@@ -1,0 +1,14 @@
+h1,h2{
+	background-color: black;
+}
+body {
+	background-color: lightgrey;
+	color: red;
+	margin-left: 15px;
+}
+.profile {
+ padding-left: 15px;
+}
+.paddress {
+	padding-left: 15px;
+}

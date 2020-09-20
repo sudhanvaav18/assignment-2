@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment 2</title>
+<link rel="stylesheet" href="style.css">
+<body>
+<h1>CRM Admin</h1>
+<nav>
+<ul>
+<li><a href="/html/">Home</a></li>
+<li><a href="/css/">About</a></li>
+<li><a href="/js/">Products</a></li> 
+<li><a href="/python/">Contact us</a></li>
+</nav>
+<h1>Employee Profile</h1>
+<section>
+<h2>Profile Photo</h2>
+<div class="profile">
+<img src="https://img1.wsimg.com/isteam/ip/33f3b294-0b18-4190-8360-de574810404a/IMG_20200118_112641.jpg/:/rt=d:90/cr=t:18.3%25,l:0%25,w:94.34%25,h:53.07%25/rs=w:1534.5px,cg:true,m" width="300"/>
+<p>Charana H U</p>
+</div>
+</section>
+<section>
+<h2>Profile Photo</h2>
+<div class="personaldata">
+<p>Address</p>
+<p class="paddress">#9, BH road, Shimoga</p>
+<p>City</p>
+<p class="paddress">Shimoga, Karnataka, India</p>
+<p>Phone</p>
+<p class="paddress">+91 123456789</p>
+</div>
+</section>
+<section>
+<h2>Customers</h2>
+<div class="customers">
+<p><a href="#">Customer-1</a></p>
+<p>Ahamadabhad</p>
+<p><a href="#">Customer-2</a></p>
+<p>Chennai</p>
+</div>
+</section>
+<section>
+<aside>
+<h2>New Inventory</h2>
+<p><img src="https://img1.wsimg.com/isteam/stock/107964/:/rs=w:1950px,h:1200px" width="200"/>		Write something about new inventory</p>
+</aside>
+<aside>
+<p><img src="https://img1.wsimg.com/isteam/stock/11253/:/rs=w:1950px,h:1200px" width="200"/>		Write something about new inventory</p>
+</aside>
+<aside>
+<p><img src="https://img1.wsimg.com/isteam/stock/100672/:/rs=w:1950px,h:1200px" width="200"/>		Write something about new inventory</p>
+</aside>
+</section>
+<section>
+<footer>
+<p>Copy right @ Charan</p>
+<p><a href="#">Contact Charan</a></p>
+</footer>
+</section>
+</body>
+</html>
+

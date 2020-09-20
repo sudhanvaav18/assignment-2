@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Assignment 2</title>
+<link rel="stylesheet" href="style.css">
+<body>
+<h1>ADMIN </h1>
+<hr>
+<nav>
+<ul>
+<li><a href="/html/">Home</a></li>
+<li><a href="/css/">About</a></li>
+<li><a href="/js/">Products</a></li> 
+<li><a href="/python/">Contact us</a></li>
+</nav>
+<h1>Employee Details</h1>
+<hr>
+<section>
+<h2>Profile Pic:</h2>
+<div class="profile">
+<img src="https://www.iconfinder.com/data/icons/men-avatars/33/man_19-512.png" width="100"/>
+<p>sudhanva av</p>
+</div>
+</section>
+<section>
+<div class="personaldata">
+<p>Address:</p>
+<p class="paddress">Old Madras Road</p>
+<p>City</p>
+<p class="paddress">Bhadravathi, Karnataka India</p>
+<p>Phone:</p>
+<p class="paddress">+91 475896154</p>
+</div>
+</section>
+<section>
+<h2>CUSTOMERS</h2>
+<div class="customers">
+<p><a href="#">Customer1</a></p>
+<p>MUMBAI</p>
+<p><a href="#">Customer2</a></p>
+<p>NEPAL</p>
+</div>
+</section>
+<section>
+<aside>
+<h2>NEW INVENTORY</h2>
+<p><img src="https://mentoryes.com/my/wp-content/uploads/2017/02/Nehanjali-article-2.jpg" width="100"/> Group Discussion</p>
+<hr>
+</aside>
+<aside>
+<p><img src="https://cdn.collider.com/wp-content/uploads/2015/08/humans-hawkins-amc-450x300.jpg" width="100"/>		Meetings</p>
+<hr>
+</aside>
+<aside>
+<p><img src="https://cdn.collider.com/wp-content/uploads/2015/07/humans-colin-morgan-600x414.jpg" width="150"/> </p>
+<hr>
+</aside>
+</section>
+<section>
+<footer>
+	<div class="footer">Copyright &#169;2017 All Rights Reserved.</div>
+<p><a href="#">GO TOP</a></p>
+</footer>
+</section>
+</body>
+</html>
